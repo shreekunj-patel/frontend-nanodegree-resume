@@ -167,6 +167,12 @@ img {
   padding: 10px;
 }
 
+.project-entry img {
+  width: 150px;
+  height: auto;
+  max-height: 150px;
+}
+
 span {
   padding: 5px;
 }
